@@ -96,7 +96,7 @@ stages:
               AuthenticationType: 'server'
               ServerName: 'ci4bisqldbserver.database.windows.net'
               DatabaseName: 'ci4bisqldbdw'
-              SqlUsername: 'student'
+              SqlUsername: 'student01'
               SqlPassword: 'WortellSmartLearning.nl'
               deployType: 'DacpacTask'
               DeploymentAction: 'Publish'
